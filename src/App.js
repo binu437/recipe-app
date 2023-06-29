@@ -92,7 +92,7 @@ function App() {
        useState=receipes.map((func name) => (component name/)} */}
   
 
-{/* this operation condition is to show the result only when the text is typed */}
+{/* this particular operation condition is to show the result only when the text is typed */}
     
   {showResult && query &&(
 
